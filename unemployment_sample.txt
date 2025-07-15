@@ -1,0 +1,23 @@
+1). The unemployment rate is calculated based on a particular region, so to analyze unemployment 
+I will be using an unemployment dataset of India. The dataset I’m using here contains data on India’s 
+unemployment rate during Covid-19. So let’s start the task of Unemployment analysis by importing the 
+necessary Python libraries and the dataset:
+
+2). Let’s see if this dataset contains missing values or not:
+
+3). While analyzing the missing values, I found that the column names are not correct. So, for a
+ better understanding of this data, I will rename all the columns:
+
+4). Now let’s have a look at the correlation between the features of this dataset:
+
+5).Now let’s visualize the data to analyze the unemployment rate. I will first take a look at the estimated
+ number of employees according to different regions of India:
+
+6).Now let’s see the unemployment rate according to different regions of India:
+
+7).Now let’s create a dashboard to analyze the unemployment rate of each Indian state by region. For this,
+ I’ll use a sunburst plot:
+
+8).So this is how you can analyze the unemployment rate by using the Python programming language.
+ Unemployment is measured by the unemployment rate which is the number of people who are unemployed as a
+ percentage of the total labour force. I hope you liked this article on unemployment rate analysis with Python.
