@@ -8,7 +8,7 @@ import plotly.express as px
 sns.set_style('whitegrid')
 
 
-data = pd.read_csv(r'https://github.com/hemanthkumarsn2002/unemployment-analysis/blob/main/unemployment.csv)
+data = pd.read_csv(r'https://raw.githubusercontent.com/hemanthkumarsn2002/unemployment-analysis/refs/heads/main/unemployment.csv')
 print(data.head())
 
 
